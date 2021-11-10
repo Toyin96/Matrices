@@ -1,0 +1,13 @@
+C:\Users\ADMIN\OneDrive - University of Lagos\Documents\WEMA CSHARP CLASS\Matrix\MatrixCruncher\MatrixCruncher\bin\Debug\netcoreapp3.1\MatrixCruncher.exe
+C:\Users\ADMIN\OneDrive - University of Lagos\Documents\WEMA CSHARP CLASS\Matrix\MatrixCruncher\MatrixCruncher\bin\Debug\netcoreapp3.1\MatrixCruncher.deps.json
+C:\Users\ADMIN\OneDrive - University of Lagos\Documents\WEMA CSHARP CLASS\Matrix\MatrixCruncher\MatrixCruncher\bin\Debug\netcoreapp3.1\MatrixCruncher.runtimeconfig.json
+C:\Users\ADMIN\OneDrive - University of Lagos\Documents\WEMA CSHARP CLASS\Matrix\MatrixCruncher\MatrixCruncher\bin\Debug\netcoreapp3.1\MatrixCruncher.runtimeconfig.dev.json
+C:\Users\ADMIN\OneDrive - University of Lagos\Documents\WEMA CSHARP CLASS\Matrix\MatrixCruncher\MatrixCruncher\bin\Debug\netcoreapp3.1\MatrixCruncher.dll
+C:\Users\ADMIN\OneDrive - University of Lagos\Documents\WEMA CSHARP CLASS\Matrix\MatrixCruncher\MatrixCruncher\bin\Debug\netcoreapp3.1\MatrixCruncher.pdb
+C:\Users\ADMIN\OneDrive - University of Lagos\Documents\WEMA CSHARP CLASS\Matrix\MatrixCruncher\MatrixCruncher\obj\Debug\netcoreapp3.1\MatrixCruncher.csprojAssemblyReference.cache
+C:\Users\ADMIN\OneDrive - University of Lagos\Documents\WEMA CSHARP CLASS\Matrix\MatrixCruncher\MatrixCruncher\obj\Debug\netcoreapp3.1\MatrixCruncher.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive - University of Lagos\Documents\WEMA CSHARP CLASS\Matrix\MatrixCruncher\MatrixCruncher\obj\Debug\netcoreapp3.1\MatrixCruncher.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive - University of Lagos\Documents\WEMA CSHARP CLASS\Matrix\MatrixCruncher\MatrixCruncher\obj\Debug\netcoreapp3.1\MatrixCruncher.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive - University of Lagos\Documents\WEMA CSHARP CLASS\Matrix\MatrixCruncher\MatrixCruncher\obj\Debug\netcoreapp3.1\MatrixCruncher.dll
+C:\Users\ADMIN\OneDrive - University of Lagos\Documents\WEMA CSHARP CLASS\Matrix\MatrixCruncher\MatrixCruncher\obj\Debug\netcoreapp3.1\MatrixCruncher.pdb
+C:\Users\ADMIN\OneDrive - University of Lagos\Documents\WEMA CSHARP CLASS\Matrix\MatrixCruncher\MatrixCruncher\obj\Debug\netcoreapp3.1\MatrixCruncher.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zfOjY12ahZHeDm4F+OI+LQY6OvJC9rGTE0nUV3Du5jNoVvD6YPwtYERindpyJyTCSHkGoA5N4pLr9fwiBbV3BA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ADMIN\\OneDrive - University of Lagos\\Documents\\WEMA CSHARP CLASS\\Matrix\\MatrixCruncher\\MatrixCruncher\\MatrixCruncher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
