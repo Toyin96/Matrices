@@ -53,6 +53,7 @@ namespace MatrixCruncher.models
             if (cA != rB)
             {
                 Console.WriteLine("matrik can't be multiplied !!");
+                return newMatrix;
             }
             else
             {
