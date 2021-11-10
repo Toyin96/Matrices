@@ -18,8 +18,7 @@ namespace MatrixCruncher
             double[,] firstMatrix = { { 1, 2, 3 }, {4, 5, 6} };
             double[,] secondMatrix = { { 4, 2, 1 }, { 7, 5, 9 } };
 
-            var res = MatrixClient.MultiplyMatrix(firstMatrix, secondMatrix);
-            Console.WriteLine("The result of the multiplied matrices is {0}", res);
+            MatrixClient.MultiplyMatrix(firstMatrix, secondMatrix);
         }
     }
 }

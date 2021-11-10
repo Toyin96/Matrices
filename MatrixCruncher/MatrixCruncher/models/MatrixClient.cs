@@ -42,7 +42,7 @@ namespace MatrixCruncher.models
             return determinantValue;
         }
 
-        public static double[,] MultiplyMatrix(double[,] A, double[,] B)
+        public static void MultiplyMatrix(double[,] A, double[,] B)
         {
             int rA = A.GetLength(0);
             int cA = A.GetLength(1);
@@ -53,7 +53,7 @@ namespace MatrixCruncher.models
             if (cA != rB)
             {
                 Console.WriteLine("matrices can't be multiplied !!");
-                return newMatrix;
+                return;
             }
             else
             {
@@ -69,7 +69,7 @@ namespace MatrixCruncher.models
                         newMatrix[i, j] = temp;
                     }
                 }
-                return newMatrix;
+                Console.WriteLine(newMatrix);
             }
         }
 
