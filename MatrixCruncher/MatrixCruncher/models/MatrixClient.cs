@@ -36,13 +36,13 @@ namespace MatrixCruncher.models
                         }
                         subi++;
                     }
-                    determinantValue = determinantValue + (Math.Pow(-1, k) * Mat[0, k] * Determinant(n - 1, SUBMat));
+                    determinantValue = determinantValue + (Math.Pow(-1, k) * Mat[0, k] * CalculateDeterminant(n - 1, SUBMat));
                 }
             }
             return determinantValue;
         }
 
-        public double[,] MultiplyMatrix(double[,] A, double[,] B)
+        public static double[,] MultiplyMatrix(double[,] A, double[,] B)
         {
             int rA = A.GetLength(0);
             int cA = A.GetLength(1);
@@ -52,7 +52,7 @@ namespace MatrixCruncher.models
             double[,] newMatrix = new double[rA, cB];
             if (cA != rB)
             {
-                Console.WriteLine("matrik can't be multiplied !!");
+                Console.WriteLine("matrices can't be multiplied !!");
                 return newMatrix;
             }
             else
@@ -72,7 +72,6 @@ namespace MatrixCruncher.models
                 return newMatrix;
             }
         }
-
 
     }
 }
